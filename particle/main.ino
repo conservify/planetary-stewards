@@ -212,7 +212,7 @@ void setup() {
 
 void loop() {
 
-    /*
+    ///*
     // GPS READ ATTEMPTS
     while (Serial1.available() > 0) {
         char c = Serial1.read();
@@ -220,15 +220,15 @@ void loop() {
         if (gps.encode(c)) {
         }
     }
-    */
+    //*/
 
-    ///*
+    /*
     // FAKE GPS READS
     while (*gpsStream) {
       if (gps.encode(*gpsStream++)) {
       }
     }
-    //*/
+    */
 
 
     switch(state) {
