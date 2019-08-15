@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arducam_OV5642
+F https://arducam.com/downloads/shields/ArduCAM_Mini_5MP_Plus_OV5642_Camera_Module_DS.pdf
+$ENDCMP
+#
+$CMP AssetTrackerV2
+F https://cdn-shop.adafruit.com/product-files/3451/p3451b-datasheet.pdf
+$ENDCMP
+#
+$CMP MicroSDBreakoutBoard+
+F https://cdn-learn.adafruit.com/downloads/pdf/adafruit-micro-sd-breakout-board-card-tutorial.pdf?timestamp=1565374981
+$ENDCMP
+#
+#End Doc Library
